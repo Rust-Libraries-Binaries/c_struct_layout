@@ -1,6 +1,6 @@
 [package]
 name = "c_struct_layout"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 authors = ["Ben Santora <bensatlantik@gmail.com>"]
 description = "A library for enforcing stable, C-compatible data layouts in Rust."
