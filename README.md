@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 # c_struct_layout
 
 A library for enforcing stable, C-compatible data layouts in Rust.
@@ -36,7 +40,4 @@ The check_layout method is a placeholder for verifying struct layouts. You can e
 This project is licensed under the MIT License
 
 ## Author
-Ben Santora <bensatlantik@gmail.com>
-
-## Donate
-https://bensatlantik.github.io/
+Ben Santora 
